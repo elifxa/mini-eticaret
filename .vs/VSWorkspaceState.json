@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\ETicaretAPI.Domain",
+    "\\Core\\ETicaretAPI.Domain\\Entities",
+    "\\Infrastructure",
+    "\\Infrastructure\\ETicaretAPI.Infrastructure",
+    "\\Infrastructure\\ETicaretAPIPersistance",
+    "\\Infrastructure\\ETicaretAPIPersistance\\Contexts",
+    "\\Presentations",
+    "\\Presentations\\ETİcaretAPI.API"
+  ],
+  "SelectedNode": "\\Core\\ETicaretAPI.Domain\\Entities\\Customer.cs",
+  "PreviewInSolutionExplorer": false
+}
