@@ -13,29 +13,28 @@ namespace ETicaretAPI.API.Controllers
         readonly private IProductReadRepository _productReadRepository;
         readonly private IProductWriteRepository _productWriteRepository;
 
-        public ProductsController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository)
+        readonly private IOrderReadRepository _orderReadRepository;
+        readonly private IOrderWriteRepository _orderWriteRepository;
+
+        readonly private ICustomerWriteRepository _customerWriteRepository;
+
+        public ProductsController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository, IOrderWriteRepository orderWriteRepository, ICustomerWriteRepository customerWriteRepository, IOrderReadRepository orderReadRepository)
         {
             _productWriteRepository = productWriteRepository;
             _productReadRepository = productReadRepository;
 
+            _orderWriteRepository = orderWriteRepository;
+            _customerWriteRepository = customerWriteRepository;
+            _orderReadRepository = orderReadRepository;
         }
 
         [HttpGet]
 
-        public async Task Get()
+        public async Task<IActionResult> Get()
         {
-            await _productWriteRepository.AddAsync(new() { Name = "C Product", Price = 1.500F, Stock = 10, CreatedDate = DateTime.UtcNow });
-            await _productWriteRepository.SaveAsync();
-
+            return Ok("Elif");
         }
 
-        [HttpGet("{id}")]
-
-        public async Task<IActionResult> Get(string id)
-        {
-            Product product = await _productReadRepository.GetByIdAsync(id);
-            return Ok(product);
-        }
 
     }
 }
