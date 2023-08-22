@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tsSJM0gzv7ijLxzcTCJZE1y3uXl/Tnhd2L4RLDuRtfTVFthzpdrXG6JvbeSf9Q56N6AOIP/dFolPtzvCn0w7Hw==",
+  "dgSpecHash": "FqqlHXsFsFmsg4+f2XfA49IUdYiaZiPqmERkFA27yEw84MU62wVR9gentNXZ/xy1jajEucu8pBvKXMlVCv0bXw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\E-ticaret uygulaması\\ETicaret API\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
