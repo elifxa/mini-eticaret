@@ -17,7 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentations", "Presentati
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaretAPI.Persistance", "Infrastructure\ETicaretAPIPersistance\ETicaretAPI.Persistance.csproj", "{9BA735B0-60D1-4394-A5DA-0E911D2F16DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaretAPI.API", "Presentations\ETicaretAPI.API\ETicaretAPI.API.csproj", "{8F11C22E-D4D7-40EB-AF11-0BB2C79960C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaretAPI.API", "Presentations\ETicaretAPI.API\ETicaretAPI.API.csproj", "{8F11C22E-D4D7-40EB-AF11-0BB2C79960C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
