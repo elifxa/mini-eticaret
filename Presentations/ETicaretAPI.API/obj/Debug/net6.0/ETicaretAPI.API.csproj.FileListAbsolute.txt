@@ -89,3 +89,9 @@ C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentat
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentations\ETicaretAPI.API\bin\Debug\net6.0\ETicaretAPI.Infrastructure.dll
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentations\ETicaretAPI.API\bin\Debug\net6.0\ETicaretAPI.Infrastructure.pdb
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentations\ETicaretAPI.API\bin\Debug\net6.0\ETicaretAPI.API.staticwebassets.runtime.json
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentations\ETicaretAPI.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentations\ETicaretAPI.API\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentations\ETicaretAPI.API\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentations\ETicaretAPI.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentations\ETicaretAPI.API\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentations\ETicaretAPI.API\bin\Debug\net6.0\System.Memory.Data.dll

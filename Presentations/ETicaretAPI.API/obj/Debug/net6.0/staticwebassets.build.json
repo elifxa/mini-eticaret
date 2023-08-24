@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sBRuoDBLD5tLPUR89sQ1L51urjhI11KusDATdt+lh4I=",
+  "Hash": "sikRGssP2fuP83VUVay8JsIJ934g5mQ1zfwka3lJJsM=",
   "Source": "ETicaretAPI.API",
   "BasePath": "_content/ETicaretAPI.API",
   "Mode": "Default",
@@ -15,5 +15,23 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\E-ticaret uygulaması\\ETicaret API\\Presentations\\ETicaretAPI.API\\wwwroot\\photos-images\\2-48.png",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\E-ticaret uygulaması\\ETicaret API\\Presentations\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "photos-images/2-48.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos-images\\2-48.png"
+    }
+  ]
 }

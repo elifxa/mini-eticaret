@@ -111,28 +111,33 @@ namespace ETicaretAPI.API.Controllers
 
         [HttpPost("[action]")]
 
-        public async Task<IActionResult> Upload()
+        public async Task<IActionResult> Upload(string id) 
         {
-            var datas = await _storageService.UploadAsync("resource/files", Request.Form.Files);
+            List<(string fileName, string pathOrContainerName) > result = await _storageService.UploadAsync("photos-images", Request.Form.Files);
 
-            //var datas = await _fileService.UploadAsync("resource/file", Request.Form.Files);
+            Product product = await _productReadRepository.GetByIdAsync(id);
 
-            await _productImageFileWriteRepository.AddRangeAsync(datas.Select(d => new ProductImageFile() {
-                FileName=d.fileName,
-                Path=d.pathOrContainerName,
-                Storage = _storageService.StorageName
-            }).ToList());
-            await _productImageFileWriteRepository.SaveAsync();
-
-            /*await _fileWriteRepository.AddRangeAsync(datas.Select(d => new ETicaretAPI.Domain.Entities.File()
+            /*foreach(var r in result)
             {
-                FileName = d.fileName,
-                Path = d.path,
+                product.ProductImageFiles.Add(new()
+                {
+                    FileName = r.fileName,
+                    Path = r.pathOrContainerName,
+                    Storage = _storageService.StorageName,
+                    Products = new List<Product>() { product }
+                });
+            }*/
+
+            await _productImageFileWriteRepository.AddRangeAsync(result.Select(r => new ProductImageFile
+            {
+                FileName=r.fileName,
+                Path = r.pathOrContainerName,
+                Storage = _storageService.StorageName,
+                Products = new List<Product>() { product }
 
             }).ToList());
-            await _fileWriteRepository.SaveAsync();*/
 
-
+            await _productImageFileWriteRepository.SaveAsync();
 
             return Ok();
         }
