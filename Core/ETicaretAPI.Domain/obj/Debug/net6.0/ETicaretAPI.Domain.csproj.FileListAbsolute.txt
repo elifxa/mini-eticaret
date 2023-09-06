@@ -1,14 +1,3 @@
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.deps.json
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.dll
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.AssemblyInfoInputs.cache
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.AssemblyInfo.cs
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.dll
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\refint\ETicaretAPI.Domain.dll
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.pdb
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ref\ETicaretAPI.Domain.dll
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret API\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.deps.json
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret API\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.dll
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret API\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
@@ -21,4 +10,15 @@ C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret AP
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\refint\ETicaretAPI.Domain.dll
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.pdb
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ref\ETicaretAPI.Domain.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.deps.json
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\refint\ETicaretAPI.Domain.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ref\ETicaretAPI.Domain.dll

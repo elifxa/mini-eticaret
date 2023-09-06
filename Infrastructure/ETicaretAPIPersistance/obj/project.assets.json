@@ -3566,6 +3566,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "ETicaretAPI.Application >= 1.0.0",
+      "EntityFramework >= 6.4.4",
       "Microsoft.EntityFrameworkCore >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.10",
@@ -3618,6 +3619,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "EntityFramework": {
+            "target": "Package",
+            "version": "[6.4.4, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[7.0.10, )"

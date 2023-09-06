@@ -2034,6 +2034,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "ETicaretAPI.Application": "1.0.0",
+          "EntityFramework": "6.4.4",
           "Microsoft.EntityFrameworkCore": "7.0.10",
           "Microsoft.Extensions.Configuration": "7.0.0",
           "Microsoft.Extensions.Configuration.Json": "7.0.0",

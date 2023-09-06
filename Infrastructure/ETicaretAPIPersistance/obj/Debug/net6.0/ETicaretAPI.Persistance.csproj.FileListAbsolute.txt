@@ -1,22 +1,3 @@
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Persistance.deps.json
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Persistance.runtimeconfig.json
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Persistance.dll
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Persistance.pdb
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Application.dll
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Domain.dll
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Application.pdb
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.csproj.AssemblyReference.cache
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.AssemblyInfoInputs.cache
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.AssemblyInfo.cs
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.csproj.CopyComplete
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.dll
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\refint\ETicaretAPI.Persistance.dll
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.pdb
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.genruntimeconfig.cache
-C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ref\ETicaretAPI.Persistance.dll
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.csproj.AssemblyReference.cache
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.AssemblyInfoInputs.cache
@@ -36,3 +17,22 @@ C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret AP
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.csproj.CopyComplete
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması GEÇERSİZ\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ref\ETicaretAPI.Persistance.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Persistance.deps.json
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Persistance.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Persistance.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Persistance.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\refint\ETicaretAPI.Persistance.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ETicaretAPI.Persistance.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Infrastructure\ETicaretAPIPersistance\obj\Debug\net6.0\ref\ETicaretAPI.Persistance.dll
