@@ -126,3 +126,4 @@ C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentat
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentations\ETicaretAPI.API\obj\Debug\net6.0\ETicaretAPI.API.pdb
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentations\ETicaretAPI.API\obj\Debug\net6.0\ETicaretAPI.API.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentations\ETicaretAPI.API\obj\Debug\net6.0\ref\ETicaretAPI.API.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\E-ticaret uygulaması\ETicaret API\Presentations\ETicaretAPI.API\bin\Debug\net6.0\QRCoder.dll

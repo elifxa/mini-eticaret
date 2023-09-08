@@ -1,6 +1,7 @@
 ﻿using ETicaretAPI.Application.Abstraction.Storage;
 using ETicaretAPI.Application.Repositories;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;

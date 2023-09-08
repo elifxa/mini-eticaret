@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KmcefVfq9k6rvbWDnbZMXHPq5VVEulo9dsDA3STg1zxSvXFfiXTPzEsxD1PKzY7lXB8UsN+uWGeUI0X7TI6CvA==",
+  "dgSpecHash": "RuBC2viF3ChjgAP/y630YDAUCJPu2D8zEPq+BSmOWs7S1rPiFuNRi/688u5eQflNIjsFK94V+S7513fZAg6tLg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\E-ticaret uygulaması\\ETicaret API\\Presentations\\ETicaretAPI.API\\ETicaretAPI.API.csproj",
   "expectedPackageFiles": [
@@ -76,6 +76,7 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

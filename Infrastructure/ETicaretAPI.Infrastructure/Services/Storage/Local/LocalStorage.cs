@@ -1,6 +1,7 @@
 ﻿using ETicaretAPI.Application.Abstraction.Storage.Local;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.IO;

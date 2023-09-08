@@ -3,6 +3,7 @@ using Azure.Storage.Blobs.Models;
 using ETicaretAPI.Application.Abstraction.Storage.Azure;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
